@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **tamiosuvarnasara@gmail.com**
 
-- ⚡ Fun fact **I am a Sushi Chef with a big passion for Web development and Graphic design**
+- ⚡ Fun fact **I am a Restaurant Manager with a big passion for Web development and Graphic design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
